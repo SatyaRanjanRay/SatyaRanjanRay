@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya Ranjan Ray</h1>
-<h3 align="center">A Data Analytics student</h3>
+<h3 align="center">Data Analytics student</h3>
 
 <img align="right" alt="coding" width="350" src="https://66.media.tumblr.com/6d731066326a3e47c6f1a1622f3fef1d/tumblr_ntf3beXYMP1r1nh24o1_500.gif">
 
